@@ -37,4 +37,4 @@ here we go
 </tr>
 </table>
 
-[PRONOUNS.CC](https://pronouns.cc/@RingmasterAI) ㅤ [ATABOOOK](https://ringmasterai.atabook.org/) ㅤ [STRAWPAGE](https://ringmasterai.straw.page/)
+[PRONOUNS.CC](https://pronouns.cc/@RingmasterAI) ㅤ [ATABOOK](https://ringmasterai.atabook.org/) ㅤ [STRAWPAGE](https://ringmasterai.straw.page/)

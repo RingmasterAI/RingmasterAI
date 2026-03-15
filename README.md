@@ -26,7 +26,7 @@ here we go
 <table>
   <tr>
     <th>
-      $\color{#ff3d64}{\textsf{information!}}$ <br>
+      $\color{#ff3d64}{\textsf{ABOUT ME!}}$ <br>
       $\color{#fcba03}{\textsf{〞ㅤCAINE or SAGEㅤ〟}}$ <br>
       $\color{#ff3d64}{\textsf{She/He/They}}$ <br>
       $\color{#fcba03}{\textsf{Nonbinary, Gender Non-Conforming}}$ <br>

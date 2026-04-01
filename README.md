@@ -38,3 +38,4 @@ here we go
 </table>
 
 [PRONOUNS.CC](https://pronouns.cc/@RingmasterAI) ㅤ [ATABOOK](https://ringmasterai.atabook.org/) ㅤ [STRAWPAGE](https://ringmasterai.straw.page/)
+[SPAM FOLLOW ACCOUNT](https://github.com/cainecore-lisp)

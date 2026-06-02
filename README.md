@@ -30,7 +30,7 @@ here we go
       $\color{#fcba03}{\textsf{〞ㅤCAINE or SAGEㅤ〟}}$ <br>
       $\color{#ff3d64}{\textsf{She/They (or He)}}$ <br>
       $\color{#fcba03}{\textsf{Nonbinary, Genderfluid, GNC}}$ <br>
-      $\color{#ff3d64}{\textsf{Taken Platonically Since: 31/12/2025}}$ <br>
+      $\color{#ff3d64}{\textsf{Taken Since: 01/06/2026}}$ <br>
       $\color{#fcba03}{\textsf{⤥ CHECK OUT MY PAGES BELOW!! ⤦}}$ <br>
 
 </th>

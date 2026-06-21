@@ -1,42 +1,66 @@
 <!--
 
-made by zixcore on discord! dm for comms
-FOR DA CAINE and one of the awesomest staff of rf YEAH
-credits to all artists and the tadc franchise
-credits to pixopix on tumblr for dividers
-here we go
+all graphics by me, ringmasterai :3
+some code stolen from multiple peoples' githubs,
+because i don't know how to code :/
 
 -->
 
 <div align="center">
 
-![divfront](https://i.imgur.com/MfdI7tN.png)
+![main image!! put that orb in the crate](https://file.garden/Zy_Q1dCuUwZRDNyl/this%20baby%20chopped%20as%20hell%20send%20him%20to%20the%20crate.png)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=30&duration=1500&pause=1000&color=ff3d64&center=true&multiline=true&width=435&height=79&lines=I'm+your+host+Caine!;WELCOME+TO+THE+CIRCUS!!" alt="Typing SVG" /></a>
+![](https://komarev.com/ghpvc/?username=ringmasterai&color=FF3D43&style=for-the-badge&label=REGISTERED+NEURAL+SCANS)
 
-![main](https://i.imgur.com/LP6qPnt.png)
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=30&duration=1500&pause=1000&color=3d81ff&center=true&multiline=true&width=435&height=79&lines=Your+name+can+be+ANYTHING!;...What+are+you+thinking?" alt="Typing SVG" /></a>
-
-![div](https://i.imgur.com/95Vb6fs.png)
-
-![div1info](https://i.imgur.com/ErnEHy5.png)
-
+- - -
 
 <table>
   <tr>
     <th>
-      $\color{#ff3d64}{\textsf{ABOUT ME!}}$ <br>
-      $\color{#fcba03}{\textsf{〞ㅤCAINEㅤ〟}}$ <br>
-      $\color{#ff3d64}{\textsf{She/They}}$ <br>
-      $\color{#fcba03}{\textsf{Nonbinary, Genderfluid, GNC}}$ <br>
-      $\color{#ff3d64}{\textsf{Taken Since: 01/06/2026}}$ <br>
-      $\color{#fcba03}{\textsf{⤥ CHECK OUT MY PAGES BELOW!! ⤦}}$ <br>
+      $\color{#303030}{\textsf{ABOUT ME!!}}$ <br>
+      <br>
+      $\color{#FF3D43}{\textsf{〞ㅤCAINEㅤ〟}}$ <br>
+      $\color{#ff9494}{\textsf{SHE/THEY PRONOUNS :3c}}$ <br>
+      $\color{#FF3D43}{\textsf{Nonbinary, Genderfluid, GNC}}$ <br>
+      $\color{#ff9494}{\textsf{TAKEN SINCE 01/06/2026 <3}}$ <br>
+      <br>
+      $\color{#477ED0}{\textsf{⤥ CHECK OUT MY PAGES BELOW!! ⤦}}$ <br>
 
 </th>
 </tr>
 </table>
 
-[PRONOUNS.CC](https://pronouns.cc/@RingmasterAI) ㅤ [ATABOOK](https://ringmasterai.atabook.org/) ㅤ [STRAWPAGE](https://ringmasterai.straw.page/)
+[**PRONOUNS.CC!**](https://pronouns.cc/@RingmasterAI) ㅤ[**ATABOOK!**](https://ringmasterai.atabook.org)
 
-[SPAM FOLLOW ACCOUNT](https://github.com/cainecore-lisp)
+[**SPAM FOLLOW ACC!**](https://github.com/cainecore-lisp)
+
+- - -
+
+<table>
+  <tr>
+    <th>
+      $\color{#303030}{\textsf{SIMPLE DNI LIST!!}}$ <br>
+      <br>
+      $\color{#477ED0}{\textsf{PEOPLE WHO SHIP:}}$ <br>
+      $\color{#477ED0}{\textsf{ROYALTEETH, QUEENBEE,}}$ <br>
+      $\color{#477ED0}{\textsf{BUBBLETEETH AND/OR CHATTERBOX.}}$ <br>
+      $\color{#52bfff}{\textsf{BASIC DNI CRITERIA.}}$ <br>
+      $\color{#477ED0}{\textsf{SHIP/SYSTEM DISCOURSE.}}$ <br>
+      $\color{#52bfff}{\textsf{FICTKIN DOUBLES.}}$ <br>
+      <br>
+      $\color{#FF3D43}{\textsf{CHECK OUT MY STRAWPAGE}}$ <br>
+      $\color{#FF3D43}{\textsf{FOR AN EXTENDED LIST AND}}$ <br>
+      $\color{#FF3D43}{\textsf{⤥ MORE INFO ON YOURS TRULY!! ⤦}}$ <br>
+
+</th>
+</tr>
+</table>
+
+[**STRAWPAGE!**](https://ringmasterai.straw.page)
+
+- - -
+
+![dividerr :3](https://file.garden/Zy_Q1dCuUwZRDNyl/ooo%20my%20little%20shapes%20awwww%20divider.png)
+
+</div>
+

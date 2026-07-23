@@ -60,6 +60,14 @@ because i don't know how to code :/
 
 - - -
 
+Forget about the FAVOURITE CHARACTER AWARDS because **I HAVE BEEN FEATURED ELSEWHERE!**
+
+$\color{#CFAD57}{\textsf{THANK YOU SO MUCH!!:}}$
+
+[pt-walk-of-fame](https://github.com/pt-walk-of-fame)
+
+- - -
+
 ![dividerr :3](https://file.garden/Zy_Q1dCuUwZRDNyl/ooo%20my%20little%20shapes%20awwww%20divider.png)
 
 </div>

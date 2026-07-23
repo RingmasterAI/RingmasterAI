@@ -20,9 +20,9 @@ because i don't know how to code :/
       $\color{#303030}{\textsf{ABOUT ME!!}}$ <br>
       <br>
       $\color{#FF3D43}{\textsf{〞ㅤCAINEㅤ〟}}$ <br>
-      $\color{#ff9494}{\textsf{SHE/THEY PRONOUNS :3c}}$ <br>
+      $\color{#ff6857}{\textsf{SHE/THEY PRONOUNS :3c}}$ <br>
       $\color{#FF3D43}{\textsf{Nonbinary, Genderfluid, GNC}}$ <br>
-      $\color{#ff9494}{\textsf{TAKEN SINCE 01/06/2026 <3}}$ <br>
+      $\color{#ff6857}{\textsf{TAKEN SINCE 01/06/2026 <3}}$ <br>
       <br>
       $\color{#477ED0}{\textsf{⤥ CHECK OUT MY PAGES BELOW!! ⤦}}$ <br>
 
